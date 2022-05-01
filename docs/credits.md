@@ -214,7 +214,7 @@
         <a href="https://github.com/aforesaidace">
             <img src="https://avatars.githubusercontent.com/u/11743610?v=4" width="80;" alt="aforesaidace"/>
             <br />
-            <sub><b>aforesaidace</b></sub>
+            <sub><b>Aforesaidace</b></sub>
         </a>
     </td></tr>
 </table>
